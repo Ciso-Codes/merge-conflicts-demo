@@ -29,7 +29,7 @@
      <<<<<<< HEAD
      This project is super cool — Anne’s edit.
      =======
-     This project is awesome — Instructor’s edit.
+     This project is awesome — Ciso’s edit.
      >>>>>>> main
      ```
 4. Resolve Together
